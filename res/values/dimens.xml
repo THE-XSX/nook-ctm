@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_text_size">20.0dip</dimen>
+    <dimen name="value_text_size">18.0dip</dimen>
+    <dimen name="switchbutton_text_size">12.0dip</dimen>
+    <dimen name="textview_width">90.0dip</dimen>
+    <dimen name="textview_height">36.0dip</dimen>
+    <dimen name="value_textview_width">60.0dip</dimen>
+    <dimen name="value_textview_height">36.0dip</dimen>
+    <dimen name="imagebutton_width">40.0dip</dimen>
+    <dimen name="imagebutton_height">40.0dip</dimen>
+    <dimen name="bottom_line_paddingBottom">8.0dip</dimen>
+    <dimen name="seekbar_minheight">2.0dip</dimen>
+    <dimen name="seekbar_maxheight">2.0dip</dimen>
+    <dimen name="seekbar_cicle_width">16.0dip</dimen>
+    <dimen name="item_line_padding_bottom">40.0dip</dimen>
+</resources>
